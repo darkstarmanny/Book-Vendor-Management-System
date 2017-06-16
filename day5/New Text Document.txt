@@ -1,0 +1,42 @@
+/*customer_t cust;
+	input_customer(&cust);
+	display_customer(&cust);
+	write_customer_in_file(&cust);
+	read_customer_from_file();
+	printf("\nEnter Contact no to find: ");
+	scanf("%s",cust.contactno);
+	find_customer(cust.contactno, &cust);
+	display_customer(&cust);*/
+	//vendor_t vend;
+	//write_vendor_in_file(&vend);
+	//read_vendor_from_file();
+	//printf("\nEnter Vendor id to find: ");
+	//scanf("%d", &vend.vendor_id);
+	//find_vendor_by_id(vend.vendor_id, &vend);
+	//display_vendor(&vend);
+	//printf("\nLast Vendor is:---------------------------------------------- ");
+	//find_vendor_by_id(last_vendor_id(), &vend);
+	//display_vendor(&vend);
+
+
+
+
+
+/*int a, b;
+	
+	int dm;
+	int result;
+
+	printf("Enter first number");
+	scanf("%d", &a);
+	printf("Enter second number");
+	scanf("%d", &b);*/
+
+
+item_t vend;
+	write_item_in_file(&vend);
+	read_item_from_file();
+	/*printf("\nEnter item name to find: ");
+	scanf("%s", vend.product_Name);
+	find_item_by_name(vend.product_Name, &vend);
+	display_item(&vend);*/
